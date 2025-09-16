@@ -1,5 +1,6 @@
-I go to school by bus.
-I have no thought on Git and GitHub whatsoever.
-I think SDLC has no improvement since I mostly work along.
-I belive version control and rellback is great for debugging.
-I solo-ing, team collaboration has no use on my currently stage.
+SDLC phases reflection:
+I have no opinion on Git or GitHub. For me, SDLC has seen little improvement since I mainly work alone.
+Version rollback reflection:
+Version control and rollback are highly useful, especially for debugging.
+Team collaboration reflection:
+As I currently work solo, Git’s collaboration features hold no relevance for me at this stage.
