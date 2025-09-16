@@ -1,3 +1,4 @@
 I go to school by bus.
 I have no thought on Git and GitHub whatsoever.
 I think SDLC has no improvement since I mostly work along.
+I belive version control and rellback is great for debugging.
