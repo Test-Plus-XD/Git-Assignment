@@ -1,80 +1,99 @@
 # Feasibility Study Template
 
-**Project Aspect:** [e.g., AI Dataset Annotation Tool]
+**Project Aspect:** Full-stack restaurant‐guide + reviews/reservations web application (modeled on OpenRice)
 
 ## Technical Feasibility
 
 **Available Technology:**
 
-- [List tools/software needed]
-- [List required skills]
+- Front-end: React / Angular; responsive HTML/CSS  
+- Back-end: Node.js/Express; REST APIs  
+- Database: Firebase or try MongoDB
+- Supporting tools: OAuth authentication, image storage, mapping/geolocation APIs, version control (Git), deployment platforms (student/cloud tiers)
+
+- Required skills: JavaScripts, back-end development, database design, API design, deployment/devops fundamentals, UI/UX, responsive design
 
 **Infrastructure Requirements:**
 
-- [List hardware/software requirements]
-- [List internet/cloud needs]
+- Hardware: PC with sufficient RAM and storage to run dev servers  
+- Software: IDE, local server environment, database server (local or cloud)  
+- Network: Internet access for APIs
+- Cloud/internet services: hosting domain + SSL, storage for media, CDN as needed
 
-**Assessment:** [Feasible/Not Feasible/Conditional]
-**Reasoning:** [Brief explanation]
+**Assessment:** Conditional Feasible  
+**Reasoning:** The technology stack and skills largely align; success depends on limiting feature scope and efficient time management over one year, __especially whether my part-time job can cover the school and third-party services fee__.
 
 ## Economic Feasibility
 
 **Costs:**
 
-- [List estimated costs - tools, time, resources]
+- Hosting, domain registration, SSL, cloud storage  
+- Possible AI, paid API subscriptions or premium tools  
+- Significant investment of time for development, learning, testing
 
 **Benefits:**
 
-- [List expected benefits - time saved, efficiency gained]
+- Substantial learning in full-stack development and deployment  
+- Project suitable for portfolio / academic demonstration  
 
 **ROI Analysis:**
 
-- [Cost vs. benefit comparison]
+- Monetary cost is low if using free/student tiers, but most provider don't have free tier ; time cost high but compensated by educational value  
+- Benefit (skills acquired, demonstrable product) exceeds projected financial cost
 
-**Assessment:** [Feasible/Not Feasible/Conditional]
-**Reasoning:** [Brief explanation]
+**Assessment:** Conditional Feasible
+**Reasoning:** Educational returns and portfolio value __might__ justify the costs.
 
 ## Organizational Feasibility
 
 **Team Capabilities:**
 
-- [List team skills relevant to project]
-- [List any skill gaps]
+- _No team so far._
 
 **Legal/Compliance:**
 
-- [List any legal requirements - e.g., data privacy]
-- [List compliance needs]
+- Must address data protection (user data, reviews), image copyright/ownership  (May use AI media for testing)
+- Terms of service, privacy policy required; local/regional legal obligations for user data
 
 **Cultural Fit:**
 
-- [How well does this fit with team/organization culture?]
+- Fits well with student learning culture; aligns with development practice and independent/project-based work  
+- Solo work has limitations for feedback, peer review, but acceptable at current stage
 
-**Assessment:** [Feasible/Not Feasible/Conditional]
-**Reasoning:** [Brief explanation]
+**Assessment:** Feasible  
+**Reasoning:** With attention to skill gaps and compliance, project fits the academic context.
 
 ## Risks
 
 **Technical Risks:**
 
-- [List potential technical challenges]
+- Over-ambition leading to delayed or incomplete features  
+- Integration difficulties (mapping, media, external APIs)  
+- Security vulnerabilities; performance issues as user/media volume grows  
 
 **Economic Risks:**
 
-- [List potential cost overruns or budget issues]
+- Unanticipated fees for APIs, hosting, domain renewals  
+- Under-estimating time; possible schedule overruns  
 
 **Organizational Risks:**
 
-- [List potential team or compliance issues]
+- Gaps in skill causing bottlenecks  
+- Loss of motivation or external constraints (other coursework)
 
 ## Recommendation
 
-**Overall Assessment:** [Feasible/Not Feasible/Conditional]
+**Overall Assessment:** Conditional Feasible, __the outcome is determined by the timing of progression to complete organ(_liver_) failure of my body__.
 
 **Key Conditions:**
 
-- [List any conditions that must be met]
+- Define and adhere to a minimal viable product (MVP) list  
+- Use free/student tiers / open-source tools where possible  
+- Incorporate security, privacy, and compliance measures early  
 
 **Next Steps:**
 
-- [What should happen next if feasible?]
+- Finalise feature list for MVP  
+- Select tech stack and set up development environment + version control structure  
+- Draft privacy policy / terms of service based on local regulations  
+- Plan project timeline (monthly goals: front-end, back-end, integration, deployment, testing)  
